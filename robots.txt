@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dayphydrion.github.io/sitemap.html
+Sitemap: https://dayphydrion.github.io/app/sitemap.html
+Sitemap: https://dayphydrion.github.io/assets/sitemap.html
+Sitemap: https://dayphydrion.github.io/css/sitemap.html
+Sitemap: https://dayphydrion.github.io/includes/sitemap.html
+Sitemap: https://dayphydrion.github.io/item/sitemap.html
+Sitemap: https://dayphydrion.github.io/src/sitemap.html
